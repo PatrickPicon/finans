@@ -15,9 +15,11 @@ Finans é o site de apresentação do aplicativo de controle financeiro, seus pr
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+- BOOTSTRAP 4
 - Git e Github
 
 ## 💻 Projeto
 
 O site Finans é um site construido para fins didáticos, iniciando com as técnologias HTML e CSS
 
+- [Visite o projeto online] (https://patrickpicon.github.io/finans/)
